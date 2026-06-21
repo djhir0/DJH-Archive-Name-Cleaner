@@ -13,14 +13,6 @@
 ![Recursive](https://img.shields.io/badge/Recursive-Scan-purple?style=for-the-badge)
 ![Logging](https://img.shields.io/badge/Logging-Enabled-red?style=for-the-badge)
 
-<br>
-
-![GitHub Stars](https://img.shields.io/github/stars/YOUR_USERNAME/DJH-Archive-Name-Cleaner?style=social)
-
-![GitHub Forks](https://img.shields.io/github/forks/YOUR_USERNAME/DJH-Archive-Name-Cleaner?style=social)
-
-![GitHub Watchers](https://img.shields.io/github/watchers/YOUR_USERNAME/DJH-Archive-Name-Cleaner?style=social)
-
 </p>
 
 ---
