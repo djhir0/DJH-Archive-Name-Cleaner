@@ -1,5 +1,3 @@
-<div align="center">
-
 # 🧹 DJH Archive Name Cleaner
 
 ### Automatically Clean, Normalize & Organize Archive, Media and Course File Names
